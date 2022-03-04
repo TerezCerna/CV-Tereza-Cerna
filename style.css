@@ -1,0 +1,74 @@
+h1 {
+    color: rgb(206, 123, 169);
+}
+h2 {
+    color: rgb(206, 123, 169);
+}
+h3,
+a {
+    color:rgb(211, 156, 53);
+}
+
+body {
+    color:rgb(148, 108, 34);
+    background-color:rgb(17, 48, 24);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+header,
+footer {
+    background-color:rgb(29, 4, 4);
+    text-align: center;
+    padding: 20px 0;
+}
+.fotoLiška {
+width: 100%
+}
+
+.fotoTereza {
+    width: 150px;
+    border-radius: 50%;
+    padding: 20px 10px;
+    float: left;
+    margin: 0 30px 30px 0
+}
+
+.zkusenosti {
+    clear:left
+}
+
+section {
+    padding: 20px 5%;
+}
+
+a:hover {
+    color: rgb(206, 123, 169);
+}
+a:focus{
+    color:rgb(148, 108, 34)
+}
+.aktualita { 
+    font-size: x-large;
+}
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(29, 4, 4);
+
+}
+
+.menu li {
+    display: inline-block
+}
+
+.menu a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 0 20px 20px 20px;
+}
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: rgb(17, 48, 24);
+}
