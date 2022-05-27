@@ -21,7 +21,7 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
-.fotoLiška {
+.fotoLiska {
 width: 100%
 }
 
@@ -32,7 +32,13 @@ width: 100%
     float: left;
     margin: 0 30px 30px 0
 }
-
+.href_czechitas {
+    text-decoration: none;
+}
+.href_github {
+    text-decoration: none;
+    color: rgb(148, 108, 34);
+}
 .zkusenosti {
     clear:left
 }
